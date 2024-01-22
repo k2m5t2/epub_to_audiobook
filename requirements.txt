@@ -4,3 +4,7 @@ mutagen==1.47.0
 openai==1.2.2
 requests==2.31.0
 socksio==1.0.0
+onnxruntime==1.16.0
+soundfile==0.12.1
+ttstokenizer
+yaml==6.0.1
